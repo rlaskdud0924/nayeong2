@@ -1,0 +1,10 @@
+body {background:radial-gradient(circle, rgb(255, 135, 135),rgb(255, 194, 255),rgb(128, 52, 183));}
+h1 {color:black}
+h2 {color:white}
+h3 {color:slategrey}
+hr {border:2px solid whitesmoke; border-style: dashed;}
+td {color: black; text-align: center;}
+
+#trid1 {background-color: blue; color:white; text-align: center;}
+
+#tdid1 {background-color: skyblue}
